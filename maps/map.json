@@ -217,9 +217,9 @@
          "opacity":1,
          "properties":[
                 {
-                 "name":"openWebsite",
+                 "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/app.sketchtogether.com\/s\/sketch\/2od_w.4.1\/"
+                 "value":"https:\/\/jmp.allianz.net\/secure\/RapidBoard.jspa?rapidView=6762&projectKey=AZFRBD&view=planning&issueLimit=100"
                 }],
          "type":"tilelayer",
          "visible":true,
