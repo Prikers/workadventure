@@ -142,7 +142,7 @@
                 {
                  "name":"openTab",
                  "type":"string",
-                 "value":"https:\/\/ask-distribution.ask.allianz\/home"
+                 "value":"https:\/\/ask-distribution.ask.azfr.allianz\/home"
                 }],
          "type":"tilelayer",
          "visible":true,
