@@ -231,7 +231,7 @@
          "data":[3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3,
             3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3,
             3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3,
-            3, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
+            3, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3,
             3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3,
             3, 0, 0, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 3, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 3, 3,
             3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 0, 3, 3, 0, 0, 0, 0, 3, 3,
@@ -662,7 +662,7 @@
                  "class":"area",
                  "height":148.386960180039,
                  "id":14,
-                 "name":"silentZone",
+                 "name":"silentZone4",
                  "properties":[
                         {
                          "name":"silent",
@@ -679,7 +679,7 @@
                  "class":"area",
                  "height":243.865525672372,
                  "id":16,
-                 "name":"jitsiMeetingRoom",
+                 "name":"jitsiMeetingRoom4",
                  "properties":[
                         {
                          "name":"focusable",
@@ -711,7 +711,7 @@
                  "class":"area",
                  "height":186.468176714171,
                  "id":18,
-                 "name":"jitsiChillRoom",
+                 "name":"jitsiChillRoom4",
                  "properties":[
                         {
                          "name":"focusable",
@@ -743,7 +743,7 @@
                  "class":"area",
                  "height":94.4281058404168,
                  "id":19,
-                 "name":"jitsiMeetingRoom",
+                 "name":"jitsiMeetingRoom4B",
                  "properties":[
                         {
                          "name":"focusable",
@@ -775,7 +775,7 @@
                  "class":"area",
                  "height":94.4281,
                  "id":22,
-                 "name":"jitsiMeetingRoom",
+                 "name":"jitsiMeetingRoom4A",
                  "properties":[
                         {
                          "name":"focusable",
@@ -807,7 +807,7 @@
                  "class":"area",
                  "height":153.327122180142,
                  "id":26,
-                 "name":"silentZone",
+                 "name":"silentZone1",
                  "properties":[
                         {
                          "name":"silent",
@@ -824,7 +824,7 @@
                  "class":"area",
                  "height":153.327122180141,
                  "id":27,
-                 "name":"silentZone",
+                 "name":"silentZone3",
                  "properties":[
                         {
                          "name":"silent",
@@ -841,7 +841,7 @@
                  "class":"area",
                  "height":148.387224271365,
                  "id":28,
-                 "name":"silentZone",
+                 "name":"silentZone2",
                  "properties":[
                         {
                          "name":"silent",
@@ -858,7 +858,7 @@
                  "class":"area",
                  "height":94.4281,
                  "id":29,
-                 "name":"jitsiMeetingRoom",
+                 "name":"jitsiMeetingRoom1A",
                  "properties":[
                         {
                          "name":"focusable",
@@ -890,7 +890,7 @@
                  "class":"area",
                  "height":94.4281,
                  "id":30,
-                 "name":"jitsiMeetingRoom",
+                 "name":"jitsiMeetingRoom2A",
                  "properties":[
                         {
                          "name":"focusable",
@@ -922,7 +922,7 @@
                  "class":"area",
                  "height":94.4281,
                  "id":31,
-                 "name":"jitsiMeetingRoom",
+                 "name":"jitsiMeetingRoom3B",
                  "properties":[
                         {
                          "name":"focusable",
@@ -954,7 +954,7 @@
                  "class":"area",
                  "height":94.4281,
                  "id":32,
-                 "name":"jitsiMeetingRoom",
+                 "name":"jitsiMeetingRoom2B",
                  "properties":[
                         {
                          "name":"focusable",
@@ -986,7 +986,7 @@
                  "class":"area",
                  "height":94.4281,
                  "id":33,
-                 "name":"jitsiMeetingRoom",
+                 "name":"jitsiMeetingRoom1A",
                  "properties":[
                         {
                          "name":"focusable",
@@ -1018,7 +1018,7 @@
                  "class":"area",
                  "height":94.4281,
                  "id":34,
-                 "name":"jitsiMeetingRoom",
+                 "name":"jitsiMeetingRoom3A",
                  "properties":[
                         {
                          "name":"focusable",
@@ -1050,7 +1050,7 @@
                  "class":"area",
                  "height":186.468,
                  "id":35,
-                 "name":"jitsiChillRoom",
+                 "name":"jitsiChillRoom3",
                  "properties":[
                         {
                          "name":"focusable",
@@ -1082,7 +1082,7 @@
                  "class":"area",
                  "height":186.468,
                  "id":36,
-                 "name":"jitsiChillRoom",
+                 "name":"jitsiChillRoom1",
                  "properties":[
                         {
                          "name":"focusable",
@@ -1114,7 +1114,7 @@
                  "class":"area",
                  "height":186.468,
                  "id":37,
-                 "name":"jitsiChillRoom",
+                 "name":"jitsiChillRoom2",
                  "properties":[
                         {
                          "name":"focusable",
@@ -1146,7 +1146,7 @@
                  "class":"area",
                  "height":243.866,
                  "id":38,
-                 "name":"jitsiMeetingRoom",
+                 "name":"jitsiMeetingRoom3",
                  "properties":[
                         {
                          "name":"focusable",
@@ -1178,7 +1178,7 @@
                  "class":"area",
                  "height":243.866,
                  "id":39,
-                 "name":"jitsiMeetingRoom",
+                 "name":"jitsiMeetingRoom2",
                  "properties":[
                         {
                          "name":"focusable",
@@ -1205,6 +1205,38 @@
                  "width":303.553,
                  "x":2263.83357739173,
                  "y":1345.21667890664
+                }, 
+                {
+                 "class":"area",
+                 "height":283.461248570172,
+                 "id":42,
+                 "name":"jitsiMeetingRoom1",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"MeetingRoom"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":303.553,
+                 "x":2264.6335307963,
+                 "y":278.418957765068
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -1355,7 +1387,7 @@
          "y":0
         }],
  "nextlayerid":53,
- "nextobjectid":41,
+ "nextobjectid":43,
  "orientation":"orthogonal",
  "properties":[
         {
