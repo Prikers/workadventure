@@ -19,16 +19,20 @@
                 path = path.substr(path, path.length - 'index.html'.length);
             }
             const instanceId = Math.random().toString(36).substring(2, 15);
-            const url = `https://play.workadventu.re/_/${instanceId}/${host}${path}maps/map.json`;
-            document.getElementById('testMapURL').href = url;
-            document.getElementById('testMapBtnURL').href = url;
-            document.getElementById('testMapURL').innerText = url;
+            const url1 = `https://play.workadventu.re/_/${instanceId}/${host}${path}maps/map.json`;
+            const url2 = `https://play.workadventu.re/_/${instanceId}/${host}${path}maps/tao.json`;
+            document.getElementById('testMapBtnURL1').href = url1;
+            document.getElementById('testMapBtnURL2').href = url2;
 
-            const jsonURL = window.location.protocol + '//' + window.location.host + path + 'maps/map.json';
-            document.getElementById('jsonURL').innerText = jsonURL;
+            const jsonURL1 = window.location.protocol + '//' + window.location.host + path + 'maps/map.json';
+            const jsonURL2 = window.location.protocol + '//' + window.location.host + path + 'maps/tao.json';
+            document.getElementById('jsonURL1').innerText = jsonURL1;
+            document.getElementById('jsonURL2').innerText = jsonURL2;
 
-            const gettingStartedLink = 'https://workadventu.re/getting-started?name=Map&mapUrl=' + jsonURL;
-            document.getElementById('gettingStartedLink').href = gettingStartedLink;
+            const gettingStartedLink1 = 'https://workadventu.re/getting-started?name=Map&mapUrl=' + jsonURL1;
+            const gettingStartedLink2 = 'https://workadventu.re/getting-started?name=Map&mapUrl=' + jsonURL2;
+            document.getElementById('gettingStartedLink1').href = gettingStartedLink1;
+            document.getElementById('gettingStartedLink2').href = gettingStartedLink2;
 
         };
     </script>
@@ -135,6 +139,11 @@
             margin: 1rem auto;
         }
 
+        .btn-row {
+            display: flex;
+            justify-content: center;
+        }
+
         .url {
             font-family: 'Courier New', Courier, monospace;
             font-size: 14px;
@@ -219,17 +228,26 @@
         </div>
 
         <div class="nes-container with-title is-centered" style="margin-top: 1rem">
-            <p class="title">Test this map</p>
-            <p>You can test this map at <a id="testMapURL" href="" class="url"></a></p>
-            <p><a id="testMapBtnURL" href="" class="nes-btn is-primary">Test this map</a></p>
+            <p class="title">Test maps</p>
+            <p>Two maps to test</p>
+            <div class="btn-row">
+              <p style><a id="testMapBtnURL1" href="" class="nes-btn is-primary">Test Ask</a></p>
+              <p style="min-width: 20px;"></p>
+              <p><a id="testMapBtnURL2" href="" class="nes-btn is-primary">Test TAO</a></p>
+            </div>
         </div>
 
         <div class="nes-container with-title is-centered" style="margin-top: 1rem">
             <p class="title">Happy with the result?</p>
             <p>Register your room on Workadventu.re</p>
-            <p><a id="gettingStartedLink" href="" class="nes-btn is-primary">Publish this map</a></p>
+            <div class="btn-row">
+                <p><a id="gettingStartedLink1" href="" class="nes-btn is-primary">Publish Ask Map</a></p>
+                <p style="min-width: 20px;"></p>
+                <p><a id="gettingStartedLink2" href="" class="nes-btn is-primary">Publish TAO Map</a></p>
+            </div>
             <p>or copy and paste the map URL in WorkAdventu.re's administration panel:</p>
-            <p><span id="jsonURL" class="url"></span></p>
+            <p><span id="jsonURL1" class="url"></span></p>
+            <p><span id="jsonURL2" class="url"></span></p>
         </div>
     </main>
     <footer><a href="https://workadventu.re/" target="_blank" title="workadventu.re">&copy; WorkAdventure</a></footer>
