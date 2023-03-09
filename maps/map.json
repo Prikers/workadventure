@@ -868,7 +868,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"tao.json#from-ask"
+                         "value":"https:\/\/play.workadventu.re\/@\/allianz\/allianz\/tao#from-ask"
                         }],
                  "type":"tilelayer",
                  "visible":true,

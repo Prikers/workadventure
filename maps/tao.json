@@ -162,7 +162,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"map.json#from-tao"
+                         "value":"https:\/\/play.workadventu.re\/@\/allianz\/allianz\/big-data-&-ai#from-tao"
                         }],
                  "type":"tilelayer",
                  "visible":true,
