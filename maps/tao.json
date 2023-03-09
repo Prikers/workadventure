@@ -162,7 +162,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"https:\/\/play.workadventu.re\/@\/allianz\/allianz\/big-data-&-ai#from-tao"
+                         "value":"https:\/\/play.workadventu.re\/@\/allianz\/allianz\/ask#from-tao"
                         }],
                  "type":"tilelayer",
                  "visible":true,
@@ -1150,17 +1150,17 @@
         {
          "name":"mapDescription",
          "type":"string",
-         "value":"A perfect virtual office to get started with WorkAdventure!"
+         "value":"TAO virtual office"
         }, 
         {
          "name":"mapImage",
          "type":"string",
-         "value":"map.png"
+         "value":"tao.png"
         }, 
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"TAO"
         }, 
         {
          "name":"script",
