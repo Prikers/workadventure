@@ -2761,7 +2761,7 @@
                  "class":"area",
                  "height":614.189559150657,
                  "id":45,
-                 "name":"jitsiConferenceRoom",
+                 "name":"AskConferenceRoom",
                  "properties":[
                         {
                          "name":"focusable",
@@ -2769,9 +2769,19 @@
                          "value":true
                         }, 
                         {
+                         "name":"jitsiConfig",
+                         "type":"string",
+                         "value":"{ \"startWithAudioMuted\": true }"
+                        }, 
+                        {
+                         "name":"jitsiInterfaceConfig",
+                         "type":"string",
+                         "value":""
+                        }, 
+                        {
                          "name":"jitsiRoom",
                          "type":"string",
-                         "value":"jitsiConferenceRoom"
+                         "value":"AskConferenceRoom"
                         }, 
                         {
                          "name":"zoom_margin",
