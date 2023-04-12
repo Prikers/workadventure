@@ -21,18 +21,24 @@
             const instanceId = Math.random().toString(36).substring(2, 15);
             const url1 = `https://play.workadventu.re/_/${instanceId}/${host}${path}maps/ask.json`;
             const url2 = `https://play.workadventu.re/_/${instanceId}/${host}${path}maps/tao.json`;
+            const url3 = `https://play.workadventu.re/_/${instanceId}/${host}${path}maps/relac.json`;
             document.getElementById('testMapBtnURL1').href = url1;
             document.getElementById('testMapBtnURL2').href = url2;
+            document.getElementById('testMapBtnURL3').href = url3;
 
             const jsonURL1 = window.location.protocol + '//' + window.location.host + path + 'maps/ask.json';
             const jsonURL2 = window.location.protocol + '//' + window.location.host + path + 'maps/tao.json';
+            const jsonURL3 = window.location.protocol + '//' + window.location.host + path + 'maps/relac.json';
             document.getElementById('jsonURL1').innerText = jsonURL1;
             document.getElementById('jsonURL2').innerText = jsonURL2;
+            document.getElementById('jsonURL3').innerText = jsonURL3;
 
             const gettingStartedLink1 = 'https://workadventu.re/getting-started?name=Map&mapUrl=' + jsonURL1;
             const gettingStartedLink2 = 'https://workadventu.re/getting-started?name=Map&mapUrl=' + jsonURL2;
+            const gettingStartedLink3 = 'https://workadventu.re/getting-started?name=Map&mapUrl=' + jsonURL3;
             document.getElementById('gettingStartedLink1').href = gettingStartedLink1;
             document.getElementById('gettingStartedLink2').href = gettingStartedLink2;
+            document.getElementById('gettingStartedLink3').href = gettingStartedLink3;
 
         };
     </script>
@@ -234,6 +240,8 @@
               <p style><a id="testMapBtnURL1" href="" class="nes-btn is-primary">Test Ask</a></p>
               <p style="min-width: 20px;"></p>
               <p><a id="testMapBtnURL2" href="" class="nes-btn is-primary">Test TAO</a></p>
+              <p style="min-width: 20px;"></p>
+              <p><a id="testMapBtnURL3" href="" class="nes-btn is-primary">Test Relac</a></p>
             </div>
         </div>
 
@@ -244,10 +252,13 @@
                 <p><a id="gettingStartedLink1" href="" class="nes-btn is-primary">Publish Ask Map</a></p>
                 <p style="min-width: 20px;"></p>
                 <p><a id="gettingStartedLink2" href="" class="nes-btn is-primary">Publish TAO Map</a></p>
+                <p style="min-width: 20px;"></p>
+                <p><a id="gettingStartedLink3" href="" class="nes-btn is-primary">Publish Relac Map</a></p>
             </div>
             <p>or copy and paste the map URL in WorkAdventu.re's administration panel:</p>
             <p><span id="jsonURL1" class="url"></span></p>
             <p><span id="jsonURL2" class="url"></span></p>
+            <p><span id="jsonURL3" class="url"></span></p>
         </div>
     </main>
     <footer><a href="https://workadventu.re/" target="_blank" title="workadventu.re">&copy; WorkAdventure</a></footer>
