@@ -3373,23 +3373,6 @@
                 }, 
                 {
                  "class":"area",
-                 "height":129.737528287102,
-                 "id":76,
-                 "name":"playSoundWelcomeAsk",
-                 "properties":[
-                        {
-                         "name":"playAudio",
-                         "type":"string",
-                         "value":".\/src\/sounds\/welcome-ask.mp3"
-                        }],
-                 "rotation":0,
-                 "visible":true,
-                 "width":208.468102805203,
-                 "x":959.07890894844,
-                 "y":1372.99363986836
-                }, 
-                {
-                 "class":"area",
                  "height":60.1749379532635,
                  "id":77,
                  "name":"gameSnake",
