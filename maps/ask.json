@@ -3387,6 +3387,33 @@
                  "width":208.468102805203,
                  "x":959.07890894844,
                  "y":1372.99363986836
+                }, 
+                {
+                 "class":"area",
+                 "height":60.1749379532635,
+                 "id":77,
+                 "name":"gameSnake",
+                 "properties":[
+                        {
+                         "name":"openWebsite",
+                         "type":"string",
+                         "value":"https:\/\/www.crazygames.fr\/embed\/tileman-io"
+                        }, 
+                        {
+                         "name":"openWebsiteTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE to play the game \"TileMan\""
+                        }],
+                 "rotation":0,
+                 "visible":true,
+                 "width":117.077994090787,
+                 "x":32.7852038678485,
+                 "y":1639.93670507655
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -3587,7 +3614,7 @@
          "y":0
         }],
  "nextlayerid":78,
- "nextobjectid":77,
+ "nextobjectid":78,
  "orientation":"orthogonal",
  "properties":[
         {
